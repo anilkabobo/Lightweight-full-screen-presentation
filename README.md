@@ -6,8 +6,11 @@ This is light presentation plugin anyone can use. It's responsive and you can cl
 You can use HTML sample I created or you can customize everything with myPresentation.config(params), where params is an object.
 
 params = {
-  wrapper : wrapper, //element for wrapping slides /n
+
+  wrapper : wrapper, //element for wrapping slides
+  
   slides : slides, //array with elements, which represent slides
+  
   defClass : defClass //default class for slides
   
 }
