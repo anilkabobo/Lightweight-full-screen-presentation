@@ -14,5 +14,3 @@ You can use HTML sample I created or you can customize everything with myPresent
 A [Pen](http://codepen.io/anilkabobo/pen/mvgzx) by [Alina Basova](http://codepen.io/anilkabobo) on [CodePen](http://codepen.io/).
 
 [License](http://codepen.io/anilkabobo/pen/mvgzx/license).
-
-[Demo on Codepen](http://codepen.io/anilkabobo/full/mvgzx/)
