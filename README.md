@@ -7,11 +7,11 @@ You can use HTML sample I created or you can customize everything with myPresent
 
 params = {
 
-  wrapper : wrapper, //element for wrapping slides
+     wrapper : wrapper, //element for wrapping slides
   
-  slides : slides, //array with elements, which represent slides
+     slides : slides, //array with elements, which represent slides
   
-  defClass : defClass //default class for slides
+     defClass : defClass //default class for slides
   
 }
 
