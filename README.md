@@ -15,4 +15,4 @@ A [Pen](http://codepen.io/anilkabobo/pen/mvgzx) by [Alina Basova](http://codepen
 
 [License](http://codepen.io/anilkabobo/pen/mvgzx/license).
 
-[Demo](http://codepen.io/anilkabobo/full/mvgzx/)
+[Demo on Codepen](http://codepen.io/anilkabobo/full/mvgzx/)
